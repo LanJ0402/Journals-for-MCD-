@@ -1,8 +1,8 @@
 # Summary of Journals for Submissions in Multimodal (Heterogeneous) Change Detection
 
-​    In recent years, multimodal (heterogeneous) change detection in remote sensing has gradually become a research hotspot in the field of remote sensing. 
+​      In recent years, multimodal (heterogeneous) change detection in remote sensing has gradually become a research hotspot in the field of remote sensing. 
 
-​    Below is a summary of major related journals, listing their abbreviations, (**Chinese Academy of Sciences**) CAS divisions (based on the latest remote sensing field divisions, please refer to the actual query for updates), and full names for reference in submissions related to multimodal change detection.
+​      Below is a summary of major related journals, listing their abbreviations, (**Chinese Academy of Sciences**) CAS divisions (based on the latest remote sensing field divisions, please refer to the actual query for updates), and full names for reference in submissions related to multimodal change detection.
 
 ## 📒Journal List
 
